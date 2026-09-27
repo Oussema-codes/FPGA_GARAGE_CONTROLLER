@@ -1,0 +1,10 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.tmp
+*.cache/
+*.runs/
+*.sim/
+*.srcs/
+.Xil/
